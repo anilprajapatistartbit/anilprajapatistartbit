@@ -1,4 +1,4 @@
-# 💫 About Me:
+**# 💫 About Me:
 Highly skilled .Net and Azure developer with 10+ years of experience in developing and deploying cloud applications on the Azure platform. Proficient in developing scalable, secure, and robust solutions using various Azure services, including Azure App Service, Azure Functions, and Azure Storage. Strong knowledge of programming languages such as C#, .NET Core, ASP.NET, React, Angular, JavaScript, and SQL. Extensive experience in implementing DevOps processes to ensure the continuous delivery of applications.
 
 
@@ -25,3 +25,4 @@ Highly skilled .Net and Azure developer with 10+ years of experience in developi
 [![](https://visitcount.itsvg.in/api?id=anilprajapatistartbit&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**
